@@ -4,64 +4,13 @@
     padding: 0;
     border: 0;
     font-size: 100%;
-  }
-                                /* Inserimento dei font */  
-@font-face {
-        font-family:"brutgrotesque";
-        src: url(brutgrotesque/BrutGrotesque-Medium.otf);
-        font-weight: medium;
-} 
-@font-face {
-        font-family:"brutgrotesque" ;
-        src: url(brutgrotesque/BrutGrotesque-BoldItalic.otf);
-        font-weight: bold italic;
-}
-@font-face {
-        font-family:"brutgrotesque" ;
-        src: url(brutgrotesque/BrutGrotesque-Bold.otf);
-        font-weight: bold;
 }
 
-.bla{
-        background-color: black;
-        color: white;
-        height: 650px;
+body{
+        font-family: 'elephant', Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color: black;
 }
-
-h2,h3,p{
-        padding-left: 15px;
-}
-        
-h2{
-        font-family: "brutgrotesque";
-        font-weight: bold;
-        font-size: 200px;
-        text-align: end;
-} 
-.des{
-        font-family: "brutgrotesque";
-        font-weight: bold italic;
-        
-}
-h3{
-        font-size: 14px;
-        font-family: "brutgrotesque";
-        font-weight: bold;
-
-}
-p{
-        font-size: 18px;
-        font-family: "brutgrotesque";
-        font-weight: medium;
-        line-height: 20px;      
-}
-
-.rif{
-        font-family: "brutgrotesque";
-        font-weight: bold;
-        font-size: 14px;
-}
-                                /* Fine inscerimento font*/
 
 .white{
         background-color: #fff;
@@ -103,4 +52,7 @@ nav .active{
         height: 400px;
         background-size: cover;
         position: absolute;
+}
+h1{
+        
 }
