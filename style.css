@@ -88,9 +88,18 @@ nav .active{
 }
 #banner{
         width: 100%;
+        background-color: #CFC0B7;
+        background-position: center;
+        height: 400px;
+        background-size: cover;
+        position: absolute;
+
+}
+#banner1{
+        width: 100%;
         background: url(img/Screenshot_20230113_202847.png) no-repeat center center;
         background-color: #CFC0B7;
-        background-position: right;
+        background-position: center;
         height: 400px;
         background-size: cover;
         position: absolute;
