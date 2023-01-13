@@ -89,10 +89,9 @@ nav .active{
 #banner{
         width: 100%;
         background: url(img/Screenshot_20230113_202847.png) no-repeat center center;
+        background-color: #CFC0B7;
+        background-position: right;
+        height: 400px;
         background-size: cover;
-        height: 300px;
-        display: flex;
-        padding: 70px;
-        justify-content: center;
-        align-items: center;
+        position: absolute;
 }
