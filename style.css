@@ -67,3 +67,32 @@ p{
         background-color: #fff;
         color: black;
 }
+header{
+        padding: 30px  20px;
+}
+nav li{
+        display: inline-block;
+        margin-left: 84px;
+        list-style: none;
+        text-transform: capitalize;
+}
+nav a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+}
+nav a:hover,
+nav .active{
+        color: black;
+
+}
+#banner{
+        width: 100%;
+        background: url(img/Screenshot_20230113_202847.png) no-repeat center center;
+        background-size: cover;
+        height: 300px;
+        display: flex;
+        padding: 70px;
+        justify-content: center;
+        align-items: center;
+}
