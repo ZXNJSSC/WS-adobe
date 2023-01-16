@@ -53,6 +53,10 @@ nav .active{
         background-size: cover;
         position: absolute;
 }
-h1{
-        
+
+.flexgrid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
 }
