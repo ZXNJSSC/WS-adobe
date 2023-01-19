@@ -168,14 +168,13 @@ article p{
         text-align: center;
         align-items: center;
 }
-.fa-facebook{color:#3b5998;}
-.fa-twitter{color: #1da1f2;}
-.fa-instagram{color:#f56040;}
+.fa-facebook{color:black;}
+.fa-twitter{color: black;}
+.fa-instagram{color:black;}
 
 .menu_social{
         margin-top: 5px;
         display: flex;
-        color: black;
         /* flex-direction:row; è il default 
         flex-direction:column; colonne in verticale
         */
