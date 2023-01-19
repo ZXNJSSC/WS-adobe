@@ -127,3 +127,20 @@ main p{
         grid-template-rows: repeat(3, 1fr);
 }
 
+.ban{
+        background-color: #CFC0B7;
+
+}
+
+main p{
+        text-align: left;
+        margin-top: 10px;
+    }
+
+h3{
+        padding: 20px;
+       
+}   
+p{
+        padding: 5px;
+}    
